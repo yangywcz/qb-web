@@ -553,7 +553,6 @@ export default class RssDialog extends HasTask {
 
 .rss-details {
   flex: 40%;
-  height: 100%;
   display: flex;
   flex-direction: column;
 
