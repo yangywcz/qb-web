@@ -1,9 +1,7 @@
 name: Release
 
 on:
-  push:
-    tags:
-      - nightly-*
+  workflow_dispatch:
 
 jobs:
   build:
